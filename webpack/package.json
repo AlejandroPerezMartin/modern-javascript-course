@@ -1,0 +1,13 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "Webpack testing",
+  "main": "index.html",
+  "dependencies": {
+    "raw-loader": "^0.5.1",
+    "underscore": "^1.8.3",
+    "webpack": "^1.14.0"
+  },
+  "author": "Alejandro Perez",
+  "license": "MIT"
+}

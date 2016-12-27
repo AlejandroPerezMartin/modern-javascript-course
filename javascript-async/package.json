@@ -1,0 +1,11 @@
+{
+  "name": "javascript-async",
+  "version": "1.0.0",
+  "description": "JavaScript Rx Observable",
+  "main": "observable.js",
+  "dependencies": {
+    "rx-node": "^1.0.2"
+  },
+  "author": "Alejandro Pérez",
+  "license": "MIT"
+}
